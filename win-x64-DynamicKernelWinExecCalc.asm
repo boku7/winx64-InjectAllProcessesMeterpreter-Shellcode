@@ -1,5 +1,5 @@
 # Shellcode Title:  Windows/x64 - Inject All Processes with Meterpreter Reverse Shell (655 Bytes)
-# Shellcode Author: Bobby Cooke (boku)
+# Shellcode Author: Bobby Cooke (@0xBoku) // SpiderLabs // github.com/boku7 // https://www.linkedin.com/in/bobby-cooke/ // https://0xboku.com
 # Date:             May 1st, 2021
 # Tested on:        Windows 10 v2004 (x64)
 # Compiled from:    Kali Linux (x86_64)
